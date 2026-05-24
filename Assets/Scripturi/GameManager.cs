@@ -28,6 +28,6 @@ public class GameManager : MonoBehaviour
 
     void UpdateUI()
     {
-        energyText.text = "Energy: " + energy;
+        energyText.text = "Stars: " + energy;
     }
 }
